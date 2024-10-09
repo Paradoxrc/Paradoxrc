@@ -28,10 +28,10 @@ Check Resume
 
 ## 🚀 My Projects
 
-- **[Project 1](https://github.com/your-username/project1)** - A brief description of the project.
-- **[Project 2](https://github.com/your-username/project2)** - A brief description of the project.
-- **[Project 3](https://github.com/your-username/project3)** - A brief description of the project.
-
+- **[Project 1](https://github.com/Paradoxrc/new_mern_portfolio)** My Portfolio is a Full stack web app created using MERN stack. This has an admin panel that can change the content in the pages without having to update the code.
+- **[Project 2](https://github.com/Paradoxrc/Cursed-Wilderness-Android-Version-)** This is an action adventure 2d game made using unity game engine.
+- **[Project 3](https://github.com/Paradoxrc/Hardware-Project-FIT-MIX-)** - This is the FIT MIX paint mixer, a first-year hardware project developed as part of my university degree program. The project aims to automate the process of mixing colors using RGB and CMYK values to create a desired paint color.
+- **[Project 4](https://github.com/Paradoxrc/dinith)** This is my old portfolio website made using React Js.
 ## 📫 How to Reach Me
 
 Feel free to reach out to me via [dinithminindu02@gmial.com](mailto:dinithminindu02@gmial.com) for any collaborations, discussions, or just to say hello!
