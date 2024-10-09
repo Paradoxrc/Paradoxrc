@@ -1,27 +1,29 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Dinith Edirisinghe! 👋
+ -I'm a Full stack developer | Unity Game Developer | Physics tutor
 
-I’m a passionate software developer, tech enthusiast, and lifelong learner based in [Your Location]. With a deep interest in solving real-world problems through code, I strive to create meaningful digital experiences that can make a difference.
+I'm an individual who likes to and tries to see the bigger picture of things and a techie guy who's very excited about science and technology and its future potential.
+
+Check Resume
+
 
 ## 👨‍💻 About Me
-
-- 💼 Currently working as a **[Your Role]** specializing in [technologies, areas of expertise, etc.].
-- 🎓 Graduated with a degree in **[Your Degree]** from **[Your University]**.
-- 🌱 I’m currently learning **[New Skills or Topics]** to expand my knowledge and keep up with the latest technologies.
-- 💡 I love exploring topics around **Software Development**, **AI/ML**, **Web Development**, and **Game Development**.
-- 🎮 In my free time, I work on indie game projects and contribute to open-source communities.
+- 🎓 Currently studying for BSc.Information Technology(Hons) in University of Moratuwa**.
+- 💡 I love exploring topics around **Computational Neuroscience**, **AI/ML**, and **Game Development**.
+- 🎮 In my free time, I work on indie game projects, play games and do music
 
 ## 🔧 Tech Stack
 
-- **Frontend**: React.js, Tailwind CSS, JavaScript (ES6+)
-- **Backend**: Node.js, Express.js, MongoDB
-- **Tools**: Git, Docker, Linux
-- **Other**: Unity Game Engine, Python, Redux
+- **Frontend**:  HTML | CSS | JavaScript | React Js | Redux | Tailwind CSS 
+- **Backend**: Node Js | Express Js | MySQL | MongoDB Atlas
+- **Programming Languages**: C | C# | C++ | Python | JavaScript | Java 
+- **Other**: Git | GitHub| Unity Engine | Arduino | Postman
 
 ## 🌐 Find Me Online
 
-- [LinkedIn](https://www.linkedin.com/in/your-link)
-- [Twitter](https://twitter.com/your-handle)
-- [Portfolio Website](https://yourwebsite.com)
+- [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/dinith-edirisinghe-103619282/))
+- [Youtube]([https://twitter.com/your-handle](https://www.youtube.com/@dinithminindu6314))
+- [Portfolio Website]([https://yourwebsite.com](https://dinith.netlify.app/))
+- [E-mail]([dinithminindu02@gmail.com))
 
 ## 📈 GitHub Stats
 
@@ -37,7 +39,7 @@ I’m a passionate software developer, tech enthusiast, and lifelong learner bas
 
 ## 📫 How to Reach Me
 
-Feel free to reach out to me via [email@example.com](mailto:email@example.com) for any collaborations, discussions, or just to say hello!
+Feel free to reach out to me via [dinithminindu02@gmial.com](mailto:dinithminindu02@gmial.com) for any collaborations, discussions, or just to say hello!
 
 ---
 
