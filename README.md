@@ -7,7 +7,7 @@ Check Resume
 
 
 ## 👨‍💻 About Me
-- 🎓 Currently studying for BSc.Information Technology(Hons) in University of Moratuwa**.
+- 🎓 Currently studying for BSc.Information Technology(Hons) in University of Moratuwa.
 - 💡 I love exploring topics around **Computational Neuroscience**, **AI/ML**, and **Game Development**.
 - 🎮 In my free time, I work on indie game projects, play games and do music
 
@@ -20,10 +20,10 @@ Check Resume
 
 ## 🌐 Find Me Online
 
-- [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/dinith-edirisinghe-103619282/))
-- [Youtube]([https://twitter.com/your-handle](https://www.youtube.com/@dinithminindu6314))
-- [Portfolio Website]([https://yourwebsite.com](https://dinith.netlify.app/))
-- [E-mail]([dinithminindu02@gmail.com))
+- [LinkedIn]([https://www.linkedin.com/in/dinith-edirisinghe-103619282/])
+- [Youtube]([https://www.youtube.com/@dinithminindu6314])
+- [Portfolio Website]([https://dinith.netlify.app/])
+- [E-mail]([dinithminindu02@gmail.com])
 
 
 ## 🚀 My Projects
