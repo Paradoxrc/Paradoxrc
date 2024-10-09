@@ -25,11 +25,6 @@ Check Resume
 - [Portfolio Website]([https://yourwebsite.com](https://dinith.netlify.app/))
 - [E-mail]([dinithminindu02@gmail.com))
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ## 🚀 My Projects
 
