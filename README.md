@@ -22,7 +22,7 @@ Check Resume
 
 - [LinkedIn]([https://www.linkedin.com/in/dinith-edirisinghe-103619282/])
 - [Youtube]([https://www.youtube.com/@dinithminindu6314])
-- [Portfolio Website]([https://dinith.netlify.app/])
+- [Portfolio Website]([https://dinith-edirisinghe.onrender.com/])
 - [E-mail]([dinithminindu02@gmail.com])
 
 
